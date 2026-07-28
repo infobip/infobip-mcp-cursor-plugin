@@ -1,0 +1,52 @@
+{
+  "mcpServers": {
+    "infobip-sms": {
+      "type": "http",
+      "url": "https://mcp.infobip.com/sms"
+    },
+    "infobip-whatsapp": {
+      "type": "http",
+      "url": "https://mcp.infobip.com/whatsapp"
+    },
+    "infobip-whatsapp-flow": {
+      "type": "http",
+      "url": "https://mcp.infobip.com/whatsapp-flow"
+    },
+    "infobip-viber": {
+      "type": "http",
+      "url": "https://mcp.infobip.com/viber"
+    },
+    "infobip-rcs": {
+      "type": "http",
+      "url": "https://mcp.infobip.com/rcs"
+    },
+    "infobip-email": {
+      "type": "http",
+      "url": "https://mcp.infobip.com/email"
+    },
+    "infobip-voice": {
+      "type": "http",
+      "url": "https://mcp.infobip.com/voice"
+    },
+    "infobip-message": {
+      "type": "http",
+      "url": "https://mcp.infobip.com/message"
+    },
+    "infobip-2fa": {
+      "type": "http",
+      "url": "https://mcp.infobip.com/2fa"
+    },
+    "infobip-account-management": {
+      "type": "http",
+      "url": "https://mcp.infobip.com/account-management"
+    },
+    "infobip-search": {
+      "type": "http",
+      "url": "https://mcp.infobip.com/search"
+    },
+    "infobip-deep-research": {
+      "type": "http",
+      "url": "https://mcp.infobip.com/deep-research"
+    }
+  }
+}
