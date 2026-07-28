@@ -1,0 +1,19 @@
+.DS_Store
+
+# Node / package managers
+node_modules/
+.pnpm-store/
+.npm/
+.yarn/
+
+# Build outputs
+build/
+dist/
+out/
+coverage/
+
+# Editor / OS files
+.vscode/
+.idea/
+*.swp
+*.swo
