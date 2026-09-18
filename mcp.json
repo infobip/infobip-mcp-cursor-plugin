@@ -47,6 +47,14 @@
     "infobip-deep-research": {
       "type": "http",
       "url": "https://mcp.infobip.com/deep-research"
+    },
+    "infobip-provisioning": {
+      "type": "http",
+      "url": "https://mcp.infobip.com/provision"
+    },
+    "infobip-observe": {
+      "type": "http",
+      "url": "https://mcp.infobip.com/observe"
     }
   }
 }
