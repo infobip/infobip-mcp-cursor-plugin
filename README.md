@@ -21,7 +21,7 @@ Built from the specs published in [infobip/mcp](https://github.com/infobip/mcp).
 | Infobip Documentation | `/search` | Documentation search, API reference, use cases, product guides |
 | Infobip Deep Research | `/deep-research` | Deep search across API documentation, detailed content retrieval |
 | Infobip Provision | `/provision` | Sender registration and number setup workflows |
-| Infobip Observe | `/observe` | Understand traffic, performance, and cost by accessing metrics, billing ussage, error-code lookups, and cross-channel message logs. Read-only |
+| Infobip Observe | `/observe` | Understand traffic, performance, and cost by accessing metrics, billing ussage, error-code lookups, and cross-channel message logs. Helps agents reason and troubleshoot about traffic. Read-only |
 
 Base URL: `https://mcp.infobip.com`
 
